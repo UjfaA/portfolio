@@ -1,0 +1,22 @@
+[
+	{
+		"role": "Software Developer",
+		"organisation": "Tron-IT",
+		"startDate": "Apr, 2023",
+		"endDate": "Aug, 2023",
+		"experiences": [
+			"SAP HANA"
+		],
+		"imageSrc": "history/Tron-IT.png"
+	},
+	{
+		"role": "Software Engineer",
+		"organisation": "EuroICC",
+		"startDate": "Jul, 2020",
+		"endDate": "Jun, 2022",
+		"experiences": [
+			"Hotel Solution"
+		],
+		"imageSrc": "history/EuroICC.png"
+	}
+]
