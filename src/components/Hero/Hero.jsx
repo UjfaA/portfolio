@@ -9,9 +9,9 @@ export const Hero = () => {
 		<div className={styles.content}>
 			<h1 className={styles.title}>Hi, I'm Alex</h1>
 			<p className={styles.description}>
-				I am a software developer. My expertise primarily lies in developing robust backend systems.
-				I am also open to engaging with frontend and infrastructure aspects of product development.
-				Regardless of the area, my goal is to craft solutions that are both elegant and comprehensible and <i>just make sense</i>.
+				I'm a software developer and in love with technology. 
+				I'm always exploring new ideas so I can craft better solutions 
+				that are elegant, easy to follow <br/> and <i>just make sense</i>.
 			</p>
 			<a href="mailto:alexujfa@outlook.com"
 				className={styles.contactBtn}>
